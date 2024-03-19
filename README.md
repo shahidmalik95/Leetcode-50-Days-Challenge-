@@ -1,2 +1,2 @@
 # Leetcode-50-Days-Challenge-
-Leetcode 50 Days Challnege and Get Badge
+Leetcode 50 Days Challnege and Get Badge! The LeetCode 50-Day Challenge is an initiative aimed at helping individuals improve their coding skills through consistent practice over a period of 50 days. Participants are encouraged to solve a specified number of coding problems each day, typically sourced from the LeetCode platform. The challenge is designed to cover a wide range of difficulty levels and topics, including data structures, algorithms, and problem-solving techniques. By participating in this challenge, individuals can enhance their problem-solving abilities, sharpen their coding skills, and prepare for technical interviews in the software engineering field.
